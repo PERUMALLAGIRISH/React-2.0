@@ -1,0 +1,21 @@
+node_modules/
+*.log
+dist/
+dist-translations/
+src_style/
+src/**/*.js.map
+src/messages/React-tmp.xml
+src/messages/ReactApp.I18n.xml
+src/messages/ReactApp.I18n.properties
+src_style/
+yarn.lock
+
+# Jest
+.jest/
+coverage/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
